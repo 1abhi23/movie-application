@@ -1,5 +1,10 @@
 # AtlysIMDB – Movie Database App
 
+## Demo Video:
+
+https://github.com/user-attachments/assets/8fe9fb0f-39b2-4063-8c6c-ccf496dc5d5c
+
+
 AtlysIMDB is a modern Android application built using Kotlin Jetpack Compose, Hilt, Room, Flows, Retrofit, and Kotlin Coroutines.
 It allows users to browse trending movies, search for movies, view detailed movie information using The Movie Database (TMDb) API.
 
