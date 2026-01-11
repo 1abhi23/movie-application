@@ -1,4 +1,4 @@
-# AtlysIMDB – Movie Database App
+# Atlys – Movie App
 
 ## Demo Video:
 
