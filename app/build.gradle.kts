@@ -12,7 +12,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.atlysimdb"
+    namespace = "com.example.movieapplication"
     compileSdk = 35
 
     defaultConfig {
